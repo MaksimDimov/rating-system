@@ -1,6 +1,15 @@
-# Getting Started with Create React App
+##  Star Rating System with Dialog in React
+This project is a React application that provides an interactive star rating system and a modal dialog box. The user can select a rating from 1 to 5 stars, with each star dynamically changing color upon selection. The selected rating is displayed with a corresponding descriptive word (e.g., "Poor," "Excellent"). Additionally, the application includes a button that triggers a dialog box overlay, which can be closed by clicking a button within the dialog. This project uses React functional components, hooks, and CSS for styling.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Features
+Star Rating System: Allows users to select a rating from 1 to 5 stars. The selected star and all previous stars change color to indicate the rating.
+Rating Description: Displays a descriptive word corresponding to the selected rating.
+Dialog Box: Includes a button to open a modal dialog overlay with a close button.
+Responsive Design: Uses CSS for styling to ensure the components are user-friendly and visually appealing.
+Technologies Used
+React: Functional components and hooks for managing state and interactions.
+CSS: For styling the components and layout.
+React Icons: For star icons in the rating system.
 
 ## Available Scripts
 
@@ -39,32 +48,6 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![Screenshot_71](https://github.com/MaksimDimov/rating-system/assets/144286311/ee2b9423-0e12-42f6-af8f-056fbb873e88)
+![Screenshot_5](https://github.com/MaksimDimov/rating-system/assets/144286311/e25d78fa-2672-4a2e-b4fd-9051a55e2312)
